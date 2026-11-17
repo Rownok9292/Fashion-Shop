@@ -16,7 +16,7 @@ const outfits = {
       {
         name: "Black Baggy Pant",
         image:
-          "assets/wide-leg_baggy_pant.jpg",
+          "assets/Wide-leg_baggy_pant.jpg",
         affiliateUrl: "https://s.click.aliexpress.com/e/_c3J3iNYH"
       },
       {

@@ -16,7 +16,7 @@ const outfits = {
       {
         name: "Black Baggy Pant",
         image:
-          "assets/Wide-leg_baggy_pant.jpg",
+          "assets/wide-leg_baggy_pant.jpg",
         affiliateUrl: "https://s.click.aliexpress.com/e/_c3J3iNYH"
       },
       {
@@ -39,6 +39,45 @@ const outfits = {
           "assets/Women's White Shoes.jpg",
         description: "A refined finishing Women's White Shoes.",
         affiliateUrl: "https://s.click.aliexpress.com/e/_c36DEz9P"
+      },
+     
+    ]
+  },
+  "Hoodie and Jacket": {
+    id: "Hoodie and Jacket",
+    title: "Best Hoodie and Jacket Combination 2026",
+    description:
+      "A chic winter outfit featuring a stylish black jacket, relaxed baggy pants, a minimalist handbag, and white shoes for effortless everyday streetwear.",
+    heroImage:
+      "assets/Full-Combination.jpg",
+    products: [
+      {
+        name: "Black Baggy Pant",
+        image:
+          "assets/Pant.jpg",
+        description: "Trendy wide-leg baggy pants offering comfort and effortless streetwear style.",
+        affiliateUrl: "https://link.amazon/B0fsTou6U"
+      },
+      {
+        name: "Black Jacket",
+        image:
+          "assets/Black_Jacket.jpg",
+        description: "A stylish black jacket that adds a modern touch to winter outfits.",
+        affiliateUrl: "https://link.amazon/B05UItkiu"
+      },
+      {
+        name: "Hoodie",
+        image:
+          "assets/Hoodie.jpg",
+        description: "Stylish hoodie for casual wear.",
+        affiliateUrl: "https://link.amazon/B04fYVH09"
+      },
+      {
+        name: "Women's White Shoes ",
+        image:
+          "assets/Women's White Shoes.jpg",
+        description: "A refined finishing Women's White Shoes.",
+        affiliateUrl: "https://link.amazon/B08f8cZkc"
       },
      
     ]

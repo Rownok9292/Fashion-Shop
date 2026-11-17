@@ -47,7 +47,7 @@ const outfits = {
     id: "Hoodie and Jacket",
     title: "Best Hoodie and Jacket Combination 2026",
     description:
-      "A chic winter outfit featuring a stylish black jacket, relaxed baggy pants, a minimalist handbag, and white shoes for effortless everyday streetwear.",
+      "A chic winter outfit featuring a stylish black jacket and hoddie combination.",
     heroImage:
       "assets/Full-Combination.jpg",
     products: [

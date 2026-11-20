@@ -47,7 +47,7 @@ const outfits = {
     id: "Hoodie and Jacket",
     title: "Best Hoodie and Jacket Combination 2026",
     description:
-      "A chic winter outfit featuring a stylish black jacket and hoddie combination.",
+      "A chic winter outfit featuring a stylish black jacket, relaxed baggy pants, a minimalist handbag, and white shoes for effortless everyday streetwear.",
     heroImage:
       "assets/Full-Combination.jpg",
     products: [
@@ -82,6 +82,53 @@ const outfits = {
      
     ]
   },
-
-  
+  "002": {
+    id: "002",
+    title: "Best winter outfit Combination For daily use",
+    description: "Create effortless everyday winter looks with cozy sweaters, relaxed baggy pants, stylish handbags, and comfortable footwear for warmth and confidence.",
+    heroImage: "assets/outfits/002/model-01.png",
+    heroImages: [
+      "assets/outfits/002/model-01.png",
+      "assets/outfits/002/model-02.jpg",
+      "assets/outfits/002/model-03.png"
+    ],
+    products: [
+      {
+        name: "Sweater",
+        image: "assets/outfits/002/product-01-01.png",
+        images: [
+          "assets/outfits/002/product-01-01.png"
+        ],
+        description: "Stay cozy and stylish with this soft, versatile women's sweater.",
+        affiliateUrl: "https://link.amazon/B0hvwBrvA"
+      },
+      {
+        name: "Baggy Pants",
+        image: "assets/outfits/002/product-02-01.jpg",
+        images: [
+          "assets/outfits/002/product-02-01.jpg"
+        ],
+        description: "Enjoy everyday comfort and style with trendy, relaxed-fit baggy pants.",
+        affiliateUrl: "https://link.amazon/B07c3YbA2"
+      },
+      {
+        name: "Women's Handbag",
+        image: "assets/outfits/002/product-03-01.jpg",
+        images: [
+          "assets/outfits/002/product-03-01.jpg"
+        ],
+        description: "Carry your essentials in this elegant, versatile everyday women's handbag.",
+        affiliateUrl: "https://link.amazon/B0ecuZy9c"
+      },
+      {
+        name: "Women's Heels",
+        image: "assets/outfits/002/product-04-01.jpg",
+        images: [
+          "assets/outfits/002/product-04-01.jpg"
+        ],
+        description: "Elevate every outfit with these elegant, comfortable, confidence-boosting women's heels.",
+        affiliateUrl: "https://link.amazon/B05Cyfauv"
+      }
+    ]
+  }
 };

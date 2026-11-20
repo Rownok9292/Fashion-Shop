@@ -82,8 +82,8 @@ const outfits = {
      
     ]
   },
-  "002": {
-    id: "002",
+  "Casual winter outfit": {
+    id: "Casual winter outfit",
     title: "Best winter outfit Combination For daily use",
     description: "Create effortless everyday winter looks with cozy sweaters, relaxed baggy pants, stylish handbags, and comfortable footwear for warmth and confidence.",
     heroImage: "assets/outfits/002/model-01.png",
